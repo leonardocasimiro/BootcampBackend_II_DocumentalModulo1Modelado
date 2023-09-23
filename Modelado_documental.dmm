@@ -151,6 +151,38 @@
 					"estimatedSize": "",
 					"any": "",
 					"fk": true
+				},
+				{
+					"id": "4b267d5d-46cf-4334-a3a6-ac9e7f7804b4",
+					"name": "fecha de publicacion",
+					"datatype": "date",
+					"param": "",
+					"pk": false,
+					"nn": false,
+					"list": false,
+					"comment": "",
+					"data": "",
+					"enum": "",
+					"validation": "",
+					"pattern": false,
+					"estimatedSize": "",
+					"any": ""
+				},
+				{
+					"id": "ff1b5c25-4e68-4091-a705-61860e382144",
+					"name": "cursos",
+					"datatype": "string",
+					"param": "",
+					"pk": false,
+					"nn": false,
+					"list": true,
+					"comment": "",
+					"data": "",
+					"enum": "",
+					"validation": "",
+					"pattern": false,
+					"estimatedSize": "",
+					"any": ""
 				}
 			],
 			"relations": [
@@ -715,6 +747,22 @@
 					"pattern": false,
 					"estimatedSize": "",
 					"any": ""
+				},
+				{
+					"id": "cbb4ca94-7f0e-4c50-b726-6fdbb4be7d5e",
+					"name": "devops",
+					"datatype": "bool",
+					"param": "",
+					"pk": false,
+					"nn": false,
+					"list": false,
+					"comment": "",
+					"data": "",
+					"enum": "",
+					"validation": "",
+					"pattern": false,
+					"estimatedSize": "",
+					"any": ""
 				}
 			],
 			"relations": [],
@@ -1047,7 +1095,7 @@
 		"def_validationAction": "na",
 		"def_collation": "",
 		"def_others": "",
-		"lastSaved": "Sat Sep 23 2023 12:24:13 GMT+0200 (hora de verano de Europa central)"
+		"lastSaved": "Sat Sep 23 2023 18:01:03 GMT+0200 (hora de verano de Europa central)"
 	},
 	"otherObjects": {},
 	"diagrams": {
@@ -1066,8 +1114,8 @@
 				"5da92d1b-79eb-4cd7-9374-cc419846f6d0": {
 					"referencedItemId": "5da92d1b-79eb-4cd7-9374-cc419846f6d0",
 					"x": 93,
-					"y": 322,
-					"gHeight": 298,
+					"y": 271,
+					"gHeight": 352,
 					"gWidth": 237,
 					"color": "#ffffff",
 					"background": "#03a9f4",
