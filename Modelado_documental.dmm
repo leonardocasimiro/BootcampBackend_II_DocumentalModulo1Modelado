@@ -973,6 +973,22 @@
 					"pattern": false,
 					"estimatedSize": "",
 					"any": ""
+				},
+				{
+					"id": "cff76be0-c9dd-49c8-9dfb-646c60867a05",
+					"name": "CP",
+					"datatype": "string",
+					"param": "",
+					"pk": false,
+					"nn": false,
+					"list": false,
+					"comment": "",
+					"data": "",
+					"enum": "",
+					"validation": "",
+					"pattern": false,
+					"estimatedSize": "",
+					"any": ""
 				}
 			],
 			"relations": [],
@@ -1592,7 +1608,7 @@
 		"def_validationAction": "na",
 		"def_collation": "",
 		"def_others": "",
-		"lastSaved": 1695485486382
+		"lastSaved": 1697045128442
 	},
 	"otherObjects": {},
 	"diagrams": {
@@ -1624,7 +1640,7 @@
 					"referencedItemId": "d23d29ca-2820-4ea0-8f93-e7d71c6a8485",
 					"x": 699,
 					"y": 44,
-					"gHeight": 279,
+					"gHeight": 297,
 					"gWidth": 255,
 					"color": "#ffffff",
 					"background": "#03a9f4",
